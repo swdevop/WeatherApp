@@ -1,2 +1,2 @@
 requests>=2.12
-flask== "*"
+flask==0.13
